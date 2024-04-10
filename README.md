@@ -1,6 +1,6 @@
 ![Lady Liberty Lollipop 2](https://github.com/sourceduty/Creative_Decay/assets/123030236/b491b526-14c3-4911-bf6a-a3dff7d5520c)
 
-[Creative Decau](https://chat.openai.com/g/g-EkPxpR9yy-creative-decay) is designed to guide you in exploring and creating art and designs that embody the aesthetics of decay and aging. This involves utilizing techniques that simulate the natural wear and tear objects undergo over time, such as rust on metal, rot in wood, or peeling and cracking paint. The process of aging in art and design can add depth, texture, and a sense of history or story to pieces, making them more intriguing and emotionally resonant.
+[Creative Decay](https://chat.openai.com/g/g-EkPxpR9yy-creative-decay) is designed to guide you in exploring and creating art and designs that embody the aesthetics of decay and aging. This involves utilizing techniques that simulate the natural wear and tear objects undergo over time, such as rust on metal, rot in wood, or peeling and cracking paint. The process of aging in art and design can add depth, texture, and a sense of history or story to pieces, making them more intriguing and emotionally resonant.
 
 ### Benefits of Using Creative Decay
 
